@@ -8,3 +8,6 @@ Mercedes 5500
 Kia Optima
 Lincoln MKS
 Honda Civic
+Lexus GX470
+Subaru WRX STI
+
